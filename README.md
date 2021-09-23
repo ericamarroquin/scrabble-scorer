@@ -36,7 +36,9 @@ Copywrite(c)2021 Anna Clarke, Erica Marroquin, Scott Hutley
 ## Contact Information
 
 Anna Clarke: anclarkie@gmail.com
+
 Scott Hutley: scotthutley1@comcast.net
+
 Erica Marroquin: ericamarroquin03@gmail.com
 
 # Specs
